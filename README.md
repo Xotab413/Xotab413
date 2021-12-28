@@ -2,7 +2,7 @@
 ### I'm study at [BSUIR][BSUIR] , specialty of computing machines, systems and networks (2020 - 2024)
 ### About me: 
 I like playing guitar, watch [anime][anime] and communicate with people<br>
-Maybe i'm a highly active sociopath, but as Googled said, i have extravert character
+Maybe i'm a highly active sociopath, but as Google said, i have extravert character
 ### My projects: 
 Repo of all labs and other things while my learning at bsuir - [cmsn][cmsn] <br>
 Repo of android course, which i don't finish yet) - [kts][kts]
