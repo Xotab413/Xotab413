@@ -18,7 +18,7 @@ Repo of android course, which i don't finish yet) - [kts][kts]
 
 [![Xotab413 GitHub stats](https://github-readme-stats.vercel.app/api?username=Xotab413&?count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=Xotab413&hide=Cmake,Makefile&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=Xotab413&hide=Cmake,Makefile,Qmake,html,javascript&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![nya][nya]
 
